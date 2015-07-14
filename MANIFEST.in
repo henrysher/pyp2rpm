@@ -1,4 +1,0 @@
-include CHANGELOG
-include LICENSE
-include README.rst
-include pyp2rpm/templates/*
