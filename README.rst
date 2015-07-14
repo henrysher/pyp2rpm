@@ -1,1 +1,1 @@
-# his repository and all the opened issues were migrated to https://github.com/fedora-python/pyp2rpm #
+# This repository and all the opened issues were migrated to https://github.com/fedora-python/pyp2rpm
